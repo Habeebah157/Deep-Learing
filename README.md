@@ -1,2 +1,2 @@
-# Deep-Learing
+# Deep-Learning
 Deep Learning Projects Documentations
